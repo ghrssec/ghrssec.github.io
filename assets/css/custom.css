@@ -1,0 +1,18 @@
+/* Disable image fade and text dimming on the homepage */
+
+.page__hero--overlay {
+  background-color: transparent !important;
+}
+
+.page__hero--overlay .wrapper,
+.page__hero--overlay .page__title,
+.page__hero--overlay .page__meta,
+.page__hero--overlay .page__lead {
+  opacity: 1 !important;
+  transition: none !important;
+}
+
+.author__avatar {
+  opacity: 1 !important;
+  transition: none !important;
+}
