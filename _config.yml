@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Grant Harris Security
+title: ghrssec
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Grant Harris' professional site.
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Grant Harris"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://media.licdn.com/dms/image/v2/D5603AQFD_W_pknPnLg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1675284974513?e=1755129600&v=beta&t=AWnCi-hQTVkOoCfHS-OZVRgxLjaZIjBRSNx241iRwp4"
   bio    : "Cybersecurity and personal development."
   links:
     - label: "Website"
@@ -74,7 +74,7 @@ author:
       url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/grant-harris-4b826994/"
 
 footer:
   links:
@@ -84,9 +84,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
