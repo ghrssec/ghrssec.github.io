@@ -108,3 +108,14 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+sass:
+  style: compressed
+
+# Add this under the existing settings
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      custom_css: "assets/css/custom.css"
