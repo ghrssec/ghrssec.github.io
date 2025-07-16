@@ -1,4 +1,11 @@
-# 📚 My Self-Help Library
+---
+layout: page
+icon: fas fa-book
+order: 1
+toc: true
+---
+
+# My Self-Help Library
 
 These are the 50 books that have shaped the way I think, build discipline, lead, and live with purpose. Each one taught me something crucial, and I return to many of them often. If you're on a journey of growth, these are some of the most powerful tools you can equip yourself with.
 
