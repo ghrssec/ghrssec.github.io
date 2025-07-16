@@ -153,7 +153,7 @@ paginate: 10
 # The base URL of your site
 baseurl: #"https://www.ghrssec.com/"
 
-favicon: /assets/img/favicons
+favicon: /assets/img/favicons/favicon.ico
 
 # ------------ The following options are not recommended to be modified ------------------
 
