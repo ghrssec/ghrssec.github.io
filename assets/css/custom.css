@@ -1,0 +1,4 @@
+.avatar {
+  transform: scale(1.1) !important; /* or whatever zoom scale you want */
+  transition: none !important;      /* disable smooth zoom on hover */
+}
