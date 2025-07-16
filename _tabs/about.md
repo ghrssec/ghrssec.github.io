@@ -1,8 +1,7 @@
 ---
-layout: single
-title: "About Me"
-permalink: /about
-author_profile: true
+title: About
+icon: fas fa-user
+order: 1
 ---
 
 Hi, I'm Grant Harris, a Cybersecurity Professional and penetration tester from the Internet.
