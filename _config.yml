@@ -1,8 +1,7 @@
 # The Site Configuration
 
 #Custom stuff
-custom_css:
-  - assets/css/custom.css
+custom_css: assets/css/custom.css
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/headshot.jpg 
