@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About Me"
-permalink: /about/
+permalink: /about
 author_profile: true
 ---
 
@@ -24,7 +24,7 @@ I believe in deep work, clean design, and clear thinking. My approach blends pra
 
 ---
 
-### 🚀 Currently
+### Currently
 
 - Studying for OSWE
 - Reading The Tangled Web by Michal Zalewski
@@ -33,7 +33,7 @@ I believe in deep work, clean design, and clear thinking. My approach blends pra
 
 ---
 
-### 📫 Let's Connect
+### Connect with me
 
 You can find me on [LinkedIn](https://linkedin.com/in/ghrssec), [GitHub](https://github.com/ghrssec), or message me on [X](https://x.com/ghrssec).
 
