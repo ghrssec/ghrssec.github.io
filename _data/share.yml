@@ -4,15 +4,15 @@
 platforms:
   - type: Linkedin
     icon: "fab fa-linkedin"
-    link: "https://www.linkedin.com/ghrssec"
+    # link: "https://www.linkedin.com/ghrssec"
 
   - type: Twitter
     icon: "fa-brands fa-square-x-twitter"
-    link: "https://twitter.com/ghrssec"
-    
+    # link: "https://twitter.com/ghrssec"
+
   - type: Github
     icon: "fab fa-github"
-    link: "https://www.github.com/ghrssec"
+    # link: "https://www.github.com/ghrssec"
   #
   # - type: Mastodon
   #   icon: "fa-brands fa-mastodon"
