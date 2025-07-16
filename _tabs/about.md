@@ -1,10 +1,3 @@
----
-layout: single
-title: "About Me"
-permalink: /about
-author_profile: true
----
-
 Hi, I'm Grant Harris, a Cybersecurity Professional and penetration tester from the Internet.
 I specialize in hacking web applications and LLMs, and I’m passionate about securing systems.
 
