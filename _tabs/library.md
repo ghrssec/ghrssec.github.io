@@ -5,8 +5,6 @@ order: 1
 toc: true
 ---
 
-# My Personal Development Library
-
 Below I have listed the top 15 books that have shaped the way I think, build discipline, lead, and live with purpose. Each one taught me something crucial, and I return to them often. If you're on a journey of growth, these are some of the most powerful tools you can equip yourself with. Although there are many other outstanding books on the subject of personal development, these are my choices (in no particular order). 
 
 > I originally attempted to make a list of 10, but was completely unable to stop there; 15 will do. 
@@ -23,13 +21,23 @@ Below I have listed the top 15 books that have shaped the way I think, build dis
   </div>
 </div>
 
-2. **Essentialism: The Disciplined Pursuit of Less** by Greg McKeown  
-![Essentialism](https://example.com/essentialism.jpg){: width="80"}  
-Say no to the trivial many, say yes to the vital few. Cut out the noise and focus all your energy where it truly matters.
+<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+  <img src="/assets/img/books/essentialism.png" alt="Essentialism" style="width: 300px; margin-right: 12px;"/>
+  <div>
+    <strong>2. Essentialism: The Disciplined Pursuit of Less</strong> by Greg McKeown
+    <br/>
+    Small habits compound into massive change. Start tiny, stay consistent, and design your environment to make success inevitable.
+  </div>
+</div>
 
-3. **The War of Art** by Steven Pressfield  
-![The War of Art](https://example.com/war-of-art.jpg){: width="80"}  
-Resistance is the enemy. The cure? Sit down and do the work, especially when you don’t feel like it.
+<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+  <img src="/assets/img/books/essentialism.png" alt="Essentialism" style="width: 300px; margin-right: 12px;"/>
+  <div>
+    <strong>3. The War of Art</strong> by Steven Pressfield
+    <br/>
+    Small habits compound into massive change. Start tiny, stay consistent, and design your environment to make success inevitable.
+  </div>
+</div>
 
 5. **The Art of Exceptional Living** by Jim Rohn (Audiobook)  
 <img style="width: 50; height: 50" src="/assets/img/books/art-of-exceptional-living.png" alt="Art of Exceptional Living"/>
