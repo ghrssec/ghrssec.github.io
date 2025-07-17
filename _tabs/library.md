@@ -14,7 +14,7 @@ Below I have listed the top 15 books that have shaped the way I think, build dis
 ---
 
 1. **Atomic Habits** by James Clear 
-<img style="float:left; width: 100;" src="/assets/img/books/atomic-habits.png" />
+<img style="float:left; width: 100;" src="/assets/img/books/atomic-habits.png" alt="Atomic Habits"/>
 Small habits compound into massive change. Start tiny, stay consistent, and design your environment to make success inevitable.
 
 2. **Essentialism: The Disciplined Pursuit of Less** by Greg McKeown  
@@ -25,12 +25,8 @@ Say no to the trivial many, say yes to the vital few. Cut out the noise and focu
 ![The War of Art](https://example.com/war-of-art.jpg){: width="80"}  
 Resistance is the enemy. The cure? Sit down and do the work, especially when you don’t feel like it.
 
-4. **12 Rules for Life** by Jordan Peterson  
-![12 Rules](https://example.com/12-rules.jpg){: width="80"}  
-Life is suffering—stand up straight and take responsibility. Order your life before criticizing the world.
-
 5. **The Art of Exceptional Living** by Jim Rohn (Audiobook)  
-<img style="float:left; width: 100;" src="/assets/img/books/art-of-exceptional-living.png" />
+<img style="float:left; width: 100;" src="/assets/img/books/art-of-exceptional-living.png" alt="Art of Exceptional Living"/>
 Discipline, philosophy, and direction create an exceptional life. Rohn’s tone and delivery make this hit hard.
 
 6. **Outwitting the Devil** by Napoleon Hill  
