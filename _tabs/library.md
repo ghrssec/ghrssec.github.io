@@ -21,14 +21,10 @@ Below I have listed the top 15 books that have shaped the way I think, build dis
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-  <img src="/assets/img/books/essentialism.png" alt="Essentialism" style="width: 200px; margin-right: 12px;"/>
-  <div>
-    <strong>2. Essentialism: The Disciplined Pursuit of Less</strong> by Greg McKeown
-    <br/>
-    Small habits compound into massive change. Start tiny, stay consistent, and design your environment to make success inevitable.
-  </div>
-</div>
+6. **Essentialism** by Napoleon Hill  
+![Essentialism](/assets/img/bokos/essentialism.png){: width="80"}  
+Fear, procrastination, and conformity are tools of the Devil. Purpose and definiteness are your weapons.
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
   <img src="/assets/img/books/essentialism.png" alt="Essentialism" style="width: 250px; margin-right: 12px;"/>
