@@ -14,7 +14,7 @@ Below I have listed the top 15 books that have shaped the way I think, build dis
 ---
 
 1. **Atomic Habits** by James Clear 
-<img style="float:right; width: 100;" src=/assets/img/books/atomic-habits.png />
+<img style="float:left; width: 100;" src=/assets/img/books/atomic-habits.png />
 Small habits compound into massive change. Start tiny, stay consistent, and design your environment to make success inevitable.
 
 2. **Essentialism: The Disciplined Pursuit of Less** by Greg McKeown  
