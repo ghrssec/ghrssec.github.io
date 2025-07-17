@@ -21,8 +21,8 @@ Below I have listed the top 15 books that have shaped the way I think, build dis
   </div>
 </div>
 
-6. **Essentialism** by Napoleon Hill  
-![Essentialism](/assets/img/bokos/essentialism.png){: width="80"}  
+2. **Essentialism** by Napoleon Hill  
+![Essentialism](/assets/img/books/essentialism.png){: width="80"}  
 Fear, procrastination, and conformity are tools of the Devil. Purpose and definiteness are your weapons.
 
 
