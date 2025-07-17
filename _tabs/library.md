@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Personal Development Library
+permalink: /library/
 icon: fas fa-book
 order: 1
 toc: true
@@ -12,10 +14,10 @@ Below I have listed the top 15 books that have shaped the way I think, build dis
 
 ---
 
-## 1. **Atomic Habits** by James Clear
+## 1. Atomic Habits by James Clear
 Small habits compound into massive change. Start tiny, stay consistent, and design your environment to make success inevitable.
 
-## 2. **Essentialism: The Disciplined Pursuit of Less** by Greg McKeown
+## 2. Essentialism: The Disciplined Pursuit of Less by Greg McKeown
 Say no to the trivial many, say yes to the vital few. Cut out the noise and focus all your energy where it truly matters.
 
 ## 3. **The War of Art** by Steven Pressfield 
