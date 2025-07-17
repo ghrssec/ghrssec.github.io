@@ -13,7 +13,8 @@ Below I have listed the top 15 books that have shaped the way I think, build dis
 
 ---
 
-1. **Atomic Habits** by James Clear  
+1. **Atomic Habits** by James Clear 
+<img style="float:right; width: 100;" src=/assets/img/books/atomic-habits.png
 ![Atomic Habits](/assets/img/books/atomic-habits.png){: width="80"}  
 Small habits compound into massive change. Start tiny, stay consistent, and design your environment to make success inevitable.
 
