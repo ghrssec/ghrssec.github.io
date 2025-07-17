@@ -22,7 +22,7 @@ Below I have listed the top 15 books that have shaped the way I think, build dis
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-  <img src="/assets/img/books/essentialism.png" alt="Essentialism" style="width: 300px; margin-right: 12px;"/>
+  <img src="/assets/img/books/essentialism.png" alt="Essentialism" style="width: 200px; margin-right: 12px;"/>
   <div>
     <strong>2. Essentialism: The Disciplined Pursuit of Less</strong> by Greg McKeown
     <br/>
@@ -31,7 +31,7 @@ Below I have listed the top 15 books that have shaped the way I think, build dis
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-  <img src="/assets/img/books/essentialism.png" alt="Essentialism" style="width: 300px; margin-right: 12px;"/>
+  <img src="/assets/img/books/essentialism.png" alt="Essentialism" style="width: 250px; margin-right: 12px;"/>
   <div>
     <strong>3. The War of Art</strong> by Steven Pressfield
     <br/>
