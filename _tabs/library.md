@@ -14,9 +14,14 @@ Below I have listed the top 15 books that have shaped the way I think, build dis
 
 ---
 
-1. **Atomic Habits** by James Clear 
-<img style="text-align:left; width: 50; height: 50;" src="/assets/img/books/atomic-habits.png" alt="Atomic Habits"/>
-Small habits compound into massive change. Start tiny, stay consistent, and design your environment to make success inevitable.
+<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+  <img src="https://example.com/atomic-habits.jpg" alt="Atomic Habits" style="width: 60px; margin-right: 12px;"/>
+  <div>
+    <strong>1. Atomic Habits</strong> by James Clear  
+    <br/>
+    Small habits compound into massive change. Start tiny, stay consistent, and design your environment to make success inevitable.
+  </div>
+</div>
 
 2. **Essentialism: The Disciplined Pursuit of Less** by Greg McKeown  
 ![Essentialism](https://example.com/essentialism.jpg){: width="80"}  
@@ -27,7 +32,7 @@ Say no to the trivial many, say yes to the vital few. Cut out the noise and focu
 Resistance is the enemy. The cure? Sit down and do the work, especially when you don’t feel like it.
 
 5. **The Art of Exceptional Living** by Jim Rohn (Audiobook)  
-<img style="float:left; width: 50; height: 50" src="/assets/img/books/art-of-exceptional-living.png" alt="Art of Exceptional Living"/>
+<img style="width: 50; height: 50" src="/assets/img/books/art-of-exceptional-living.png" alt="Art of Exceptional Living"/>
 Discipline, philosophy, and direction create an exceptional life. Rohn’s tone and delivery make this hit hard.
 
 6. **Outwitting the Devil** by Napoleon Hill  
