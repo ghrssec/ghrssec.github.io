@@ -9,6 +9,8 @@ avatar: /assets/img/headshot.jpg
 # Import the theme
 theme: jekyll-theme-chirpy
 
+toc: true
+
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
@@ -175,6 +177,9 @@ kramdown:
       start_line: 1
 
 collections:
+  pages:
+    output: true
+    
   tabs:
     output: true
     sort_by: order
