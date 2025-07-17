@@ -15,7 +15,7 @@ Below I have listed the top 15 books that have shaped the way I think, build dis
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-  <img src="/assets/img/books/atomic-habits.png" alt="Atomic Habits" style="width: 60px; margin-right: 12px;"/>
+  <img src="/assets/img/books/atomic-habits.png" alt="Atomic Habits" style="width: 120px; margin-right: 12px;"/>
   <div>
     <strong>1. Atomic Habits</strong> by James Clear  
     <br/>
