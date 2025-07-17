@@ -30,7 +30,7 @@ Resistance is the enemy. The cure? Sit down and do the work, especially when you
 Life is suffering—stand up straight and take responsibility. Order your life before criticizing the world.
 
 5. **The Art of Exceptional Living** by Jim Rohn (Audiobook)  
-![Art of Exceptional Living](https://example.com/exceptional-living.jpg){: width="80"}  
+<img style="float:left; width: 100;" src="/assets/img/books/art-of-exceptional-living.png" />
 Discipline, philosophy, and direction create an exceptional life. Rohn’s tone and delivery make this hit hard.
 
 6. **Outwitting the Devil** by Napoleon Hill  
