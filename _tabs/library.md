@@ -31,7 +31,7 @@ Discipline, philosophy, and direction create an exceptional life. Rohn’s tone 
 #### 6. <u>*Outwitting the Devil*</u> by Napoleon Hill 
 Fear, procrastination, and conformity are tools of the Devil. Purpose and definiteness are your weapons.
 
-#### 7. <u><strong>Unf\*ck Yourself<strong></u> by Gary John Bishop 
+#### 7. <u><strong>Unfck Yourself<strong></u> by Gary John Bishop 
 You are what you do, not what you think. Get out of your head and take action—no more excuses.
 
 #### 8. <u>*How to Manage Your Home Without Losing Your Mind*</u> by Dana K. White 
