@@ -5,6 +5,7 @@ permalink: /library/
 icon: fas fa-book
 order: 1
 toc: true
+
 ---
 
 Below I have listed the top 15 books that have shaped the way I think, build discipline, lead, and live with purpose. Each one taught me something crucial, and I return to them often. If you're on a journey of growth, these are some of the most powerful tools you can equip yourself with. Although there are many other outstanding books on the subject of personal development, these are my choices (in no particular order). 

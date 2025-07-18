@@ -9,7 +9,8 @@ avatar: /assets/img/headshot.jpg
 # Import the theme
 theme: jekyll-theme-chirpy
 
-toc: true
+toc: 
+  enable: true
 
 index_mode: page
 
