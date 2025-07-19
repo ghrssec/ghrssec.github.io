@@ -9,8 +9,8 @@ avatar: /assets/img/headshot.jpg
 # Import the theme
 theme: jekyll-theme-chirpy
 
-toc: 
-  enable: true
+#toc: 
+  #enable: true
 
 index_mode: page
 
@@ -158,7 +158,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+#paginate: 10
 
 # The base URL of your site
 baseurl: #"https://www.ghrssec.com/"

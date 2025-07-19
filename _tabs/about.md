@@ -19,7 +19,7 @@ I specialize in hacking web applications and LLMs, and I’m passionate about se
 
 ### Philosophy
 
-I believe in deep work, clean design, and clear thinking. My approach blends practicality with curiosity — constantly learning, refining, and improving. I’ve drawn inspiration from mentors, books, and frameworks including *Atomic Habits*, *Deep Work*, and *The 7 Habits of Highly Effective People*.
+I believe in deep work, clean design, and clear thinking. My approach blends practicality with curiosity — constantly learning, refining, and improving. I’ve drawn inspiration from mentors, books.
 
 ---
 
