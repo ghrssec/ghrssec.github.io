@@ -4,30 +4,30 @@ title: Personal Development Library
 permalink: /library/
 icon: fas fa-book
 order: 1
-toc: true
 
 ---
 
-Below I have listed the top 15 books that have shaped the way I think, build discipline, lead, and live with purpose. Each one taught me something crucial, and I return to them often. If you're on a journey of growth, these are some of the most powerful tools you can equip yourself with. Although there are many other outstanding books on the subject of personal development, these are my choices (in no particular order). 
+Below I have listed the top 15 books that have shaped the way I think, build discipline, lead, and live with purpose. Each one taught me something crucial, and I return to them often. Although there are many other outstanding books on the subject of personal development, these are my choices (in no particular order). 
 
-> I originally attempted to make a list of 10, but was completely unable to stop there; 15 will do. 
+> I originally attempted to make a list of 10, but was completely unable to stop there. 
 {: .prompt-info }
 
 ---
 
 #### 1. <u><strong>Atomic Habits</strong></u> by James Clear
-Small habits compound into massive change. Start tiny, stay consistent, and design your environment to make success inevitable.
+Identity fuels behavior. Systems create structure. 1% better every day is 37x better over one year. This book would be top 3 no matter what list it's on. 
 
 #### 2. <u><strong>Essentialism: The Disciplined Pursuit of Less</strong></u> by Greg McKeown
-Say no to the trivial many, say yes to the vital few. Cut out the noise and focus all your energy where it truly matters.
+"What is essential?". Saying "no" to the trivial many to make room for the important few. 
 
 #### 3. <u><strong>The War of Art</strong></u> by Steven Pressfield 
-Resistance is the enemy. The cure? Turning pro.
+Giving a name to Resistance. Turning pro is the cure. 
 
 #### 4. <u><strong>177 Mental Toughness Secrets of the World Class</strong></u> by Steve Siebold 
+Individual lessons for quick reference. Direct language and powerful motivation.
 
 #### 5. <u><strong>The Art of Exceptional Living</strong></u> by Jim Rohn (Audiobook) 
-Discipline, philosophy, and direction create an exceptional life. Rohn’s tone and delivery make this hit hard.
+If there was only one, this may be it. Jim Rohn is easily one of the best of all time.
 
 #### 6. <u><strong>Outwitting the Devil</strong></u> by Napoleon Hill 
 Fear, procrastination, and conformity are tools of the Devil. Purpose and definiteness are your weapons.

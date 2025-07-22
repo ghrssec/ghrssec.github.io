@@ -4,7 +4,7 @@ icon: fas fa-user
 order: 1
 ---
 
-Hi, I'm Grant Harris, a Cybersecurity Professional and penetration tester from the Internet.
+I'm Grant Harris, a Cybersecurity Professional and penetration tester.
 I specialize in hacking web applications and LLMs, and I’m passionate about securing systems.
 
 ---
@@ -19,7 +19,7 @@ I specialize in hacking web applications and LLMs, and I’m passionate about se
 
 ### Philosophy
 
-I believe in deep work, clean design, and clear thinking. My approach blends practicality with curiosity — constantly learning, refining, and improving. I’ve drawn inspiration from mentors, books.
+.
 
 ---
 
