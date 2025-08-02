@@ -1,46 +1,29 @@
 ---
 layout: page
 title: Certifications
+icon: fas fa-circle-check
 permalink: /certifications/
+order: 1
 ---
 
-# 🏆 Certifications
+Below are the certifications I’ve earned to deepen my expertise and sharpen my skills as a security professional.
 
-Showcasing technical certifications that reflect advanced expertise in cybersecurity.
 
----
+## <img src="/assets/img/oscp.png" alt="OSCP" style="max-width: 25%; height: auto; float: left; margin-right: 1rem;" /> Offensive Security Certified Professional (OSCP)
 
-<table style="width:100%; border: none;">
-  <tr>
-    <td style="width: 60px; vertical-align: middle;">
-      <img src="/assets/img/oscp.png" alt="OSCP Logo" width="48" height="48">
-    </td>
-    <td style="vertical-align: middle;">
-      ### Offensive Security Certified Professional (OSCP)
-      **Date Earned:** May 2022  
-      **Expiration:** Does not expire  
-      **Verification:** [View Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51841931)  
-      <br>
-      The OSCP demonstrates practical exploitation, creative problem solving, and disciplined methodology through a 24-hour hands-on penetration testing exam.
-    </td>
-  </tr>
-</table>
+**Earned:** `May 22, 2022`  
+**Expires:** Does not expire  
+
+[OSCP validation page](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51841931)
+
+<br clear="all" />
 
 ---
 
-<table style="width:100%; border: none;">
-  <tr>
-    <td style="width: 60px; vertical-align: middle;">
-      <img src="/assets/img/grem.png" alt="GREM Logo" width="48" height="48">
-    </td>
-    <td style="vertical-align: middle;">
-      ### GIAC Reverse Engineering Malware (GREM)
-      **Issued by:** GIAC (SANS Institute)  
-      **Date Earned:** August 2016
-      **Expiration:** August 2020  
-      **Verification:** [View Certificate](https://www.giac.org/certified-professional/Grant-Harris/154408)  
-      <br>
-      GREM certifies malware reverse engineering skills, binary analysis, and rapid threat assessment using advanced tools and hands-on techniques.
-    </td>
-  </tr>
-</table>
+## <img src="/assets/img/grem.png" alt="GREM" style="max-width: 60%; height: auto; float: left; margin-right: 1rem;" /> SANS GIAC Reverse Engineering Malware (GREM)
+
+
+**Earned:** `August 2016`  
+**Expired:** 2020-08-31
+
+[GREM validation page](https://www.giac.org/certified-professional/Grant-Harris/154408 "GREM Certification")
