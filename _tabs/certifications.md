@@ -20,7 +20,7 @@ Below are the certifications I’ve earned to deepen my expertise and sharpen my
 
 ## SANS Reverse Engineering Malware (GREM)
 
-![GREM Certification](/assets/gremp.png "GREM Certification")
+![GREM Certification](/assets/grem.png "GREM Certification")
 
 **Earned:** `August 2016` 
 **Expired:** 2020-08-31
