@@ -13,7 +13,7 @@ Showcasing technical certifications that reflect advanced expertise in cybersecu
 <table style="width:100%; border: none;">
   <tr>
     <td style="width: 60px; vertical-align: middle;">
-      <img src="/assets/img/certs/oscp.png" alt="OSCP Logo" width="48" height="48">
+      <img src="/assets/img/certifications/oscp.png" alt="OSCP Logo" width="48" height="48">
     </td>
     <td style="vertical-align: middle;">
       ### Offensive Security Certified Professional (OSCP)
@@ -31,7 +31,7 @@ Showcasing technical certifications that reflect advanced expertise in cybersecu
 <table style="width:100%; border: none;">
   <tr>
     <td style="width: 60px; vertical-align: middle;">
-      <img src="/assets/img/certs/grem.png" alt="GREM Logo" width="48" height="48">
+      <img src="/assets/img/certifications/grem.png" alt="GREM Logo" width="48" height="48">
     </td>
     <td style="vertical-align: middle;">
       ### GIAC Reverse Engineering Malware (GREM)
