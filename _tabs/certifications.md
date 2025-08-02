@@ -17,10 +17,9 @@ Showcasing technical certifications that reflect advanced expertise in cybersecu
     </td>
     <td style="vertical-align: middle;">
       ### Offensive Security Certified Professional (OSCP)
-      **Issued by:** Offensive Security  
-      **Date Earned:** August 2022  
+      **Date Earned:** May 2022  
       **Expiration:** Does not expire  
-      **Verification:** [View Certificate](#)  
+      **Verification:** [View Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51841931)  
       <br>
       The OSCP demonstrates practical exploitation, creative problem solving, and disciplined methodology through a 24-hour hands-on penetration testing exam.
     </td>
@@ -37,9 +36,9 @@ Showcasing technical certifications that reflect advanced expertise in cybersecu
     <td style="vertical-align: middle;">
       ### GIAC Reverse Engineering Malware (GREM)
       **Issued by:** GIAC (SANS Institute)  
-      **Date Earned:** May 2023  
-      **Expiration:** May 2027  
-      **Verification:** [View Certificate](#)  
+      **Date Earned:** August 2016
+      **Expiration:** August 2020  
+      **Verification:** [View Certificate](https://www.giac.org/certified-professional/Grant-Harris/154408)  
       <br>
       GREM certifies malware reverse engineering skills, binary analysis, and rapid threat assessment using advanced tools and hands-on techniques.
     </td>
