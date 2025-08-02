@@ -11,7 +11,7 @@ Below are the certifications I’ve earned to deepen my expertise and sharpen my
 
 ## Offensive Security Certified Professional (OSCP)
 
-<img src="/assets/img/oscp-cert.png" alt="OSCP Certificate" style="width: 100px; float: left; margin-right: 1rem; margin-bottom: 0.5rem;" />
+<img src="/assets/img/oscp.png" alt="OSCP Certificate" style="width: 100px; float: left; margin-right: 1rem; margin-bottom: 0.5rem;" />
 
 **Earned:** `May 22, 2022`  
 **Expires:** Does not expire  
