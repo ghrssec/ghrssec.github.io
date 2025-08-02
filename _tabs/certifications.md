@@ -11,7 +11,7 @@ Below are the certifications I’ve earned to deepen my expertise and sharpen my
 
 ## Offensive Security Certified Professional (OSCP)
 
-![OSCP Certification](/assets/oscp.png "OSCP Certification")
+![OSCP Certification](/assets/img/oscp.png "OSCP Certification")
 
 **Earned:** `May 22, 2022`  
 **Expires:** Does not expire  
@@ -20,7 +20,7 @@ Below are the certifications I’ve earned to deepen my expertise and sharpen my
 
 ## SANS Reverse Engineering Malware (GREM)
 
-![GREM Certification](/assets/grem.png "GREM Certification")
+![GREM Certification](/assets/img/grem.png "GREM Certification")
 
 **Earned:** `August 2016` 
 **Expired:** 2020-08-31
