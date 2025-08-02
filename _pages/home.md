@@ -9,8 +9,8 @@ I am a cybersecurity professional, specializing in offensive security (penetrati
 
 ### Explore
 - [About Me](/about/)
-- [Personal Development Library](/library/)
-- [Projects and Certificates](/library/)
+- [My Personal Development Library](/library/)
+- [Projects and Certificates](/certifications/)
 
 
 
