@@ -3,7 +3,7 @@
 #Custom stuff
 #custom_css: assets/css/custom.css
 
-favicon: favicon.ico
+favicon: assets/img/favicons/favicon.ico
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/headshot.jpg 
