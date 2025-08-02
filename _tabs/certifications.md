@@ -20,7 +20,7 @@ Below are the certifications I’ve earned to deepen my expertise and sharpen my
 
 ## SANS GIAC Reverse Engineering Malware (GREM)
 
-<img src="/assets/img/grem.png" alt="GREM" style="max-width: 25%; height: auto; float: left; margin-right: 1rem;" />
+<img src="/assets/img/grem.png" alt="GREM" style="max-width: 60%; height: auto; float: left; margin-right: 1rem;" />
 
 **Earned:** `August 2016` 
 **Expired:** 2020-08-31
