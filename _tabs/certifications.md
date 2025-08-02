@@ -11,7 +11,7 @@ Below are the certifications I’ve earned to deepen my expertise and sharpen my
 
 ## Offensive Security Certified Professional (OSCP)
 
-<img src=/assets/oscp.png/>
+![OSCP Certification](/assets/oscp.png "OSCP Certification")
 
 **Earned:** `May 22, 2022`  
 **Expires:** Does not expire  
@@ -20,9 +20,9 @@ Below are the certifications I’ve earned to deepen my expertise and sharpen my
 
 ## SANS Reverse Engineering Malware (GREM)
 
-<img src=/assets/grem.png/>
+![GREM Certification](/assets/gremp.png "GREM Certification")
 
 **Earned:** `August 2016` 
 **Expired:** 2020-08-31
 
-[GREM validation page](https://www.giac.org/certified-professional/Grant-Harris/154408)
+![GREM validation page](https://www.giac.org/certified-professional/Grant-Harris/154408 "GREM Certification")
