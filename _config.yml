@@ -3,6 +3,8 @@
 #Custom stuff
 #custom_css: assets/css/custom.css
 
+favicon: /assets/img/favicons/favicon.ico
+
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/headshot.jpg 
 
@@ -162,8 +164,6 @@ pwa:
 
 # The base URL of your site
 baseurl: #"https://www.ghrssec.com/"
-
-favicon: /assets/img/favicons/favicon.ico
 
 # ------------ The following options are not recommended to be modified ------------------
 
