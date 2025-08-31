@@ -24,9 +24,17 @@ All that being said, here are the certifications I've chosen to acquire.
   <h2 style="margin: 0;">Offensive Security Certified Professional (OSCP)</h2>
 </div>
 
+**Earned:** May 22, 2022  
+**Expires:** Does not expire  
+
+[OSCP validation page](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51841931)
+
 ---
 
-## ![GREM Logo](/assets/img/grem.png){: style="height:80px; vertical-align:middle;"} &emsp;SANS GIAC Reverse Engineering Malware (GREM)
+<div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
+  <img src="/assets/img/grem.png" alt="GREM" style="width: 80px; height: auto; margin-right: 1rem;" />
+  <h2 style="margin: 0;">SANS GIAC Reverse Engineering Malware</h2>
+</div>
 
 **Earned:** August 2016  
 **Expired:** 2020-08-31 
@@ -35,7 +43,10 @@ All that being said, here are the certifications I've chosen to acquire.
 
 ---
 
-## ![OSWE Logo](/assets/img/oswe.jpg){: style="height:80px; vertical-align:middle;"} &emsp;Offensive Security Web Expert (OSWE)
+<div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
+  <img src="/assets/img/oswe.jpg" alt="OSWE" style="width: 80px; height: auto; margin-right: 1rem;" />
+  <h2 style="margin: 0;">Offensive Security Web Expert (OSWE)</h2>
+</div>
 
 **Earned:** In progress (Test on December 15, 2025)  
 **Expires:** Does not expire 
