@@ -19,7 +19,7 @@ I agree. In my view, certifications are a tool to use in a broader journey of gr
 All that being said, here are the certifications I've chosen to acquire.
 
 
-## ![OSCP Logo](/assets/img/oscp.png){: style="height:80px; vertical-align:middle;"} Offensive Security Certified Professional (OSCP)
+## ![OSCP Logo](/assets/img/oscp.png){: style="height:80px; vertical-align:middle;"} &emsp;Offensive Security Certified Professional (OSCP)
 
 **Earned:** May 22, 2022
 **Expires:** Does not expire  
@@ -28,7 +28,7 @@ All that being said, here are the certifications I've chosen to acquire.
 
 ---
 
-## ![GREM Logo](/assets/img/grem.png){: style="height:80px; vertical-align:middle;"} SANS GIAC Reverse Engineering Malware (GREM)
+## ![GREM Logo](/assets/img/grem.png){: style="height:80px; vertical-align:middle;"} &emsp;SANS GIAC Reverse Engineering Malware (GREM)
 
 **Earned:** August 2016
 **Expired:** 2020-08-31  
@@ -37,7 +37,7 @@ All that being said, here are the certifications I've chosen to acquire.
 
 ---
 
-## ![OSWE Logo](/assets/img/oswe.jpg){: style="height:80px; vertical-align:middle;"} Offensive Security Web Expert (OSWE)
+## ![OSWE Logo](/assets/img/oswe.jpg){: style="height:80px; vertical-align:middle;"} &emsp;Offensive Security Web Expert (OSWE)
 
 **Earned:** In progress (Test on December 15, 2025)
 **Expires:** Does not expire
