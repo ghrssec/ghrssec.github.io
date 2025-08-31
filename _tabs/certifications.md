@@ -19,18 +19,16 @@ It depends upon the certification, but I agree. In my view, certifications are a
 All that being said, here are the certifications I've chosen to acquire.
 
 
-## ![OSCP Logo](/assets/img/oscp.png){: style="height:80px; vertical-align:middle;"} &emsp;Offensive Security Certified Professional (OSCP)
-
-**Earned:** May 22, 2022
-**Expires:** Does not expire  
-
-[OSCP validation page](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51841931)
+<div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
+  <img src="/assets/img/oscp.png" alt="OSCP" style="width: 80px; height: auto; margin-right: 1rem;" />
+  <h2 style="margin: 0;">Offensive Security Certified Professional (OSCP)</h2>
+</div>
 
 ---
 
 ## ![GREM Logo](/assets/img/grem.png){: style="height:80px; vertical-align:middle;"} &emsp;SANS GIAC Reverse Engineering Malware (GREM)
 
-**Earned:** August 2016
+**Earned:** August 2016  
 **Expired:** 2020-08-31 
 
 [GREM validation page](https://www.giac.org/certified-professional/Grant-Harris/154408 "GREM Certification")
@@ -39,5 +37,5 @@ All that being said, here are the certifications I've chosen to acquire.
 
 ## ![OSWE Logo](/assets/img/oswe.jpg){: style="height:80px; vertical-align:middle;"} &emsp;Offensive Security Web Expert (OSWE)
 
-**Earned:** In progress (Test on December 15, 2025) 
+**Earned:** In progress (Test on December 15, 2025)  
 **Expires:** Does not expire 
