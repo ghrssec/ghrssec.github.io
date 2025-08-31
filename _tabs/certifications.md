@@ -6,7 +6,7 @@ permalink: /certifications/
 order: 1
 ---
 
-![Certifications](/assets/img/certified.jpeg)
+![Certifications](/assets/img/certified.jpg)
 
 It seems that the security community has mixed feelings about certifications. On one side, they are seen as a way to break into (or advance in) the field and as a way to highlight individual skills. On the other, some argue that certifications are overly commercialized or that they can signal a focus on course-taking and cert-chasing rather than building real-world experience.
 
