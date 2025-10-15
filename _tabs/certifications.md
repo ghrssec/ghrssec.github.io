@@ -27,7 +27,7 @@ All that being said, here are the certifications I've chosen to acquire. -->
 **Earned:** May 22, 2022  
 **Expires:** Does not expire  
 
-[OSCP validation page](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51841931)
+[OSCP validation page](https://credentials.offsec.com/3898928d-3896-4f60-984d-cf221ca472a0#acc.D6eYJd17)
 
 ---
 
